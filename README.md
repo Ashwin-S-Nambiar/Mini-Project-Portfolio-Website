@@ -13,7 +13,7 @@
 
 ## 📸 Screenshots
 ### Hero / Welcome Section and Header Section
-![meta-scifor-personal-portfolio vercel app_ (3)](https://github.com/user-attachments/assets/a7357f60-3bcb-417b-b60b-c7a28e70a222)
+![meta-scifor-personal-portfolio vercel app_1](https://github.com/user-attachments/assets/6529c29e-72fd-4b05-b5ab-8f54bd3378c3)
 
 ### About Section
 ![meta-scifor-personal-portfolio vercel app_ (4)](https://github.com/user-attachments/assets/6ee0d2cb-51e0-4ca7-8b0a-ec60fdcf5f11)
