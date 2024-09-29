@@ -24,6 +24,6 @@
 ### Contact Form
 ![meta-scifor-personal-portfolio vercel app_ (2)](https://github.com/user-attachments/assets/54faafc8-6969-498b-8da6-8d895a6efcf8)
 
-### Submitted Form Viewing
+### Submitted Form
 ![Form-submitted](https://github.com/user-attachments/assets/9d9d975f-90fb-47a5-a357-7870766ba934)
 
